@@ -28,9 +28,16 @@
     </spacer>
    </item>
    <item>
+    <widget class="QPushButton" name="pushButton_2">
+     <property name="text">
+      <string>Желтый круг</string>
+     </property>
+    </widget>
+   </item>
+   <item>
     <widget class="QPushButton" name="pushButton">
      <property name="text">
-      <string>Круг</string>
+      <string>Случайный круг</string>
      </property>
     </widget>
    </item>
